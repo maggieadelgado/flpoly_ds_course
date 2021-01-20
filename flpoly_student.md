@@ -1,23 +1,23 @@
-## First Name Last Name
+## Magelee Delgado
 
-### Term Year 
+### Spring 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- ENT 2112
 
-- Course 2
+- COP 2073
 
-- Course 3
+- MAN 3570
 
-- Course 4
+- FIN 2001
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Traveling
 
-- Thing 2
+- Serving
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
