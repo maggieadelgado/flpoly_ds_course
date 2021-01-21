@@ -12,12 +12,14 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - FIN 2001
 
-**Hobbies:**
+- BUL 2241
+
+**Hobbies:** Traveling, serving my community, binge watching shows, and taking naps.
 
 I am _passionate about_: 
 
-- Traveling
+- Faith
 
-- Serving
+- Learning
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- My relationships
