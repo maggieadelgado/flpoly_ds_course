@@ -4,15 +4,14 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- ENT 2112
+| Prefix | Number | Name | Credits |
+| :------:| :------:| :----|:--------:|
+| **ENT** | **2112** | _Entrepreneurial Opportunity Analysis_ | 3 |
+| **COP** | **2073** | _Introduction to Data Science_ | 3 |
+| **MAN** | **3570** | _Purchasing and Supply Chain Management_ | 3 |
+| **FIN** | **2001** | _Introduction to Business Finance_ | 3 |
+| **BUL** | **2241** | _Law, Public Policy, Negotiation, and Business_ | 3 |
 
-- COP 2073
-
-- MAN 3570
-
-- FIN 2001
-
-- BUL 2241
 
 **Hobbies:** Traveling, serving my community, binge watching shows, and taking naps.
 
