@@ -12,7 +12,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 | **FIN** | **2001** | _Introduction to Business Finance_ | 3 |
 | **BUL** | **2241** | _Law, Public Policy, Negotiation, and Business_ | 3 |
 
-![Screenshot of Updated Github Repo](/Users/maggiedelgado/Desktop/Screen Shot 2021-02-06 at 3.03.32 PM.png)
+![Screenshot of this updated repo](/Users/maggiedelgado/Desktop/Screen Shot 2021-02-06 at 3.03.32 PM.png)
 
 **Hobbies:** Traveling, serving my community, binge watching shows, and taking naps.
 
