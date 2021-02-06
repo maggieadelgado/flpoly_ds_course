@@ -24,4 +24,4 @@ I am _passionate about_:
 - My relationships
 
 **Screenshot:**
-![Screenshot of Updated Github Repo](/Users/maggiedelgado/Desktop/Screen Shot 2021-02-06 at 3.03.32 PM.png)
+![Screenshot](/Users/maggiedelgado/Desktop/Screen Shot 2021-02-06 at 3.27.28 PM.png)
