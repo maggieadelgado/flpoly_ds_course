@@ -26,5 +26,5 @@ I am _passionate about_:
 **Screenshot:**
 
 ![Screenshot of Updated Repo](Screen Shot 2021-02-06 at 3.27.28 PM.png)
-
+ 
 I attempted to add the screenshot. It works locally but it does not show once on github. 
